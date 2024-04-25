@@ -31900,7 +31900,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2014 The Holtwood Project Authors (https://github.com/googlefonts/HoltwoodFont)";
+value = "Copyright 2011 The Holtwood Project Authors (https://github.com/googlefonts/HoltwoodFont)";
 }
 );
 },
